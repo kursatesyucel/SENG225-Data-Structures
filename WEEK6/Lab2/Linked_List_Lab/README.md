@@ -1,11 +1,11 @@
-# Linked List Lab Paketi
+# Linked List Lab Package
 
-Dil: C11. Soru metinleri ve açıklamalar Türkçedir; kod tanımlayıcıları İngilizcedir.
+Language: C11. Question texts, explanations, and code identifiers are in English.
 
-- Sorular.md: Öğrenciye verilecek dört soru ve çalıştırma talimatları.
-- student/: Hazır yardımcı kodlar ve boş bırakılmış TODO gövdeleri (4 C dosyası).
-- solutions/: Tam çözümler (4 C dosyası) ve örnek programların beklenen çıktıları.
-- Cozum_Aciklamalari.md: Eğitmen için algoritma açıklamaları ve karmaşıklıklar.
+- Questions.md: The four questions to give to students, along with build and run instructions.
+- student/: Ready-made helper code and empty TODO function bodies (4 C files).
+- solutions/: Complete solutions (4 C files) and the expected output of the sample programs.
+- Solution_Explanations.md: Algorithm explanations and complexities for the instructor.
 
-Öğrencilerle yalnızca Sorular.md ve student klasörünü paylaşabilirsiniz.
-Çözümler GCC C11 ile uyarılar hata kabul edilerek derlenmiş; AddressSanitizer ve UndefinedBehaviorSanitizer ile örnek senaryolarda çalıştırılmıştır.
+You may share only Questions.md and the student folder with students.
+The solutions were compiled with GCC C11 with warnings treated as errors, and run on the sample scenarios with AddressSanitizer and UndefinedBehaviorSanitizer.
