@@ -1,0 +1,4 @@
+NULL
+Count: 0
+10 -> 20 -> 30 -> NULL
+Count: 3

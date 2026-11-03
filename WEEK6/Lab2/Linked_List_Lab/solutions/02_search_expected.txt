@@ -1,0 +1,5 @@
+Empty search: -1
+10 -> 20 -> 30 -> 20 -> NULL
+Find 10: 0
+Find 20: 1
+Find 99: -1
